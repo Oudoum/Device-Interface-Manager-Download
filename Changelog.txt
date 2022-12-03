@@ -1,0 +1,180 @@
+0.0.1.0
+- pre-release
+
+0.0.1.1
+- fixed auto profile start
+- fixed Server connection closing on application shutdown
+
+0.0.2.0
+- added IP-Adress and Port selection
+
+0.0.3.0
+- SimConnect API added
+- fixed freeze with the CDU Screen software
+
+0.0.4.1
+- added ClickOnce
+- fixed endless lopp after profile activation
+
+0.0.4.2
+- changed GUI
+- renamed software
+
+0.0.5.0
+- added Fly By Wire A32NX MCDU profile
+- adeed Fly By Wire A32NX MCDU screen
+- added Fly By Wire A32NX test
+- added MobiFlight WASM module
+- added MobiFLight Hubhop
+- added display selection for Fly By Wire A32NX MCDU screen
+- added MobiFlight WASN module update
+- added MobiFLight Hubhop update
+- added MobiFLight Hubhop preset selection in ProfileCreator
+- added WebView2
+
+0.0.5.1
+- fixed minor bugs
+
+0.0.5.2
+- added interfaceIT Ethernet Device tester
+- fixed minor bugs
+
+0.0.5.3
+- added Error Messages
+Fly By Wire A32NX MCDU profile:
+	- added annunciator light test
+	- added backlight brightness control (INTEG LT)
+	
+0.0.5.4
+- added version number to MainWindow
+Fly By Wire A32NX MCDU profile:
+	- recoded profiles
+	- added first officer profile
+	
+0.0.5.5
+- fixed profile start (wrong variable)
+	
+0.0.5.6
+- fixed profile start (Thread Sleep)
+
+0.0.5.7
+Fly By Wire A32NX MCDU profile:
+	- fixed light test
+	
+0.0.5.8
+Fly By Wire A32NX MCDU profile:
+	- fixed LED mixmatch
+	
+0.0.5.9
+Fenix Simulations A320 MCDU profile:
+	- added Fenix Simulations A320 MCDU profile
+	
+0.0.5.10
+Fenix Simulations A320 MCDU profile:
+	-fixed button events
+	
+0.0.5.11
+Fenix Simulations A320 MCDU profile:
+	- fixed button events (wrong method)
+	
+0.0.5.12
+- fixed minor bugs and crashes
+- added USB and ENET toggle button (visual no function)
+- added ping to interfaceIT Ethernet Device
+- removed interfaceIT Ethernet Device port selection
+Fenix Simulations A320 MCDU Ethernet profile:
+	- added Fenix Simulations A320 MCDU Ethernet profile
+	
+0.0.5.13
+Fenix Simulations A320 MCDU Ethernet profile:
+	- fixed switches and events mapping
+	
+0.0.5.14
+- Hubhop updater fixed
+
+0.0.5.15
+Fenix Simulations A320 MCDU Ethernet profile:
+	- fixed bugs and crashes
+	
+0.0.5.16
+Fenix Simulations A320 MCDU Ethernet profile:
+	- fixed data receiving
+	
+0.0.5.17
+- added PMDG SDK (converted to managed)
+Fenix Simulations A320 MCDU Ethernet profile:
+	- fixed crashes on data receive
+	
+0.0.6.0
+- fixed buggs and crashes
+- added MainWindow positon remembering
+PMDG 737 CDU Captain and Firstofficer profile:
+	- added CDU screen
+		CDU screen features:
+		- all characters
+		- all colors
+		- custom B737 fonts
+		- screen position, font, size etc. remembering
+		- controlls for changing screen position, font, size etc.
+		- and much more
+		
+0.0.7.0
+- removed the use of PMDG Data and Events Server
+PMDG 737 Captain CDU profile:
+	- recoded profile
+PMDG 737 Firstofficer CDU profile:
+	- recode profile
+PMDG 737 MCP profile:
+	- recoded profile
+	- complete logic overhaul
+	
+0.0.7.1
+- fixed crashes and bugs
+- added PMDG profiles autostart
+- added PMDG profiles can be started before MSFS2020 is running
+PMDG 737 Captain and Firstofficer CDU profile:
+	- fixed crashes
+	- fixed font
+	- fixed LEDs stayed on after closing
+	- CDU screen remembers display now
+PMDG 737 MCP profile:
+	- fixed MCP logic (it will act exactly like the PMDG 737 MCP now)
+	- fixed MCP stayed on after closing
+	- fixed IAS/Mach (removed leading zero and dot [0.77 => .77])
+	- fixed Heading flickering
+	- fixed Overspeed and Underspeed flashing (A & B)
+	- fixed vertical speed should be blank if zero
+	- fixed vertical speed encoder transmitting wrong direction
+	- fixed crashes
+	
+0.0.7.2
+PMDG 737 Captain and Firstofficer CDU profile:
+	- included new font
+	
+0.0.7.3
+- fixed crucial crashes
+- added SimConnect ethernet support
+
+0.0.7.4
+- fixed bugs and crashes
+- added SimConnect status (Ellipse at the top)
+- changed IP and Port selection to support SimConnect
+
+0.0.7.5
+- cleaned code
+- fixed crash while exiting MSFS2020
+- fixed SelectAll on LED Test Page is not hidden while test is not active
+PMDG 737 Captain and Firstofficer CDU profile:
+	- fixed flickering
+	
+0.0.8.0
+COMPLETELY REWRITTEN
+
+0.0.8.1
+- fixed Thread error
+PMDG 737 MCP profile:
+	- fixed MCP profile not working
+	
+0.0.8.2
+- added labels to Other Tests for 7 Segment
+- fixed 7 Segment selection
