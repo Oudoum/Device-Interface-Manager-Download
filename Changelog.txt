@@ -178,3 +178,14 @@ PMDG 737 MCP profile:
 0.0.8.2
 - added labels to Other Tests for 7 Segment
 - fixed 7 Segment selection
+
+0.0.9.0
+REWRITTEN
+ENET support
+
+0.0.9.1
+- fixed bugs and crashes
+- added SimConnect log
+- added ENET log
+- changed updater location/link
+- updated MSFS2020 SDK (SimConnect)
