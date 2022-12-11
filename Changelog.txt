@@ -196,3 +196,10 @@ ENET support
 0.0.9.3
 - fixed PMDG 737 CDU freeze/crash
 - added PMDG 737 CDU to ENET
+
+0.0.9.4
+- Code cleanup
+- fixed PMDG CDU screen (fullscreen saving, font changes and SMALL and UNSUED fix)
+- ENET Fenix Captain MCDU profile changes
+PMDG 737 Captain CDU ENET profile
+	- enabled brightness buttons
