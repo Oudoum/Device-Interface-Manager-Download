@@ -203,3 +203,6 @@ ENET support
 - ENET Fenix Captain MCDU profile changes
 PMDG 737 Captain CDU ENET profile
 	- enabled brightness buttons
+	
+0.0.9.5
+- fixed PMDG 737 CDU screen fullscreen
