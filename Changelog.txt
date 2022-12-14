@@ -206,3 +206,9 @@ PMDG 737 Captain CDU ENET profile
 	
 0.0.9.5
 - fixed PMDG 737 CDU screen fullscreen
+
+0.0.9.6
+- code cleanup
+- fixed USB serial number not saving
+FENIX A320 MCDU ENET profile
+	- fixed crash
