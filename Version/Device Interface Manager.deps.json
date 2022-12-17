@@ -11,7 +11,7 @@
         "dependencies": {
           "Autoupdater.NET.Official": "1.7.6",
           "CommunityToolkit.Mvvm": "8.0.0",
-          "Microsoft.Web.WebView2": "1.0.1418.22",
+          "Microsoft.Web.WebView2": "1.0.1462.37",
           "Microsoft.Xaml.Behaviors.Wpf": "1.1.39",
           "Newtonsoft.Json": "13.0.2",
           "Microsoft.FlightSimulator.SimConnect": "11.0.62651.3"
@@ -22,7 +22,7 @@
       },
       "Autoupdater.NET.Official/1.7.6": {
         "dependencies": {
-          "Microsoft.Web.WebView2": "1.0.1418.22"
+          "Microsoft.Web.WebView2": "1.0.1462.37"
         },
         "runtime": {
           "lib/net6.0-windows7.0/AutoUpdater.NET.dll": {
@@ -39,24 +39,24 @@
           }
         }
       },
-      "Microsoft.Web.WebView2/1.0.1418.22": {
+      "Microsoft.Web.WebView2/1.0.1462.37": {
         "runtime": {
           "lib/netcoreapp3.0/Microsoft.Web.WebView2.Core.dll": {
-            "assemblyVersion": "1.0.1418.22",
-            "fileVersion": "1.0.1418.22"
+            "assemblyVersion": "1.0.1462.37",
+            "fileVersion": "1.0.1462.37"
           },
           "lib/netcoreapp3.0/Microsoft.Web.WebView2.WinForms.dll": {
-            "assemblyVersion": "1.0.1418.22",
-            "fileVersion": "1.0.1418.22"
+            "assemblyVersion": "1.0.1462.37",
+            "fileVersion": "1.0.1462.37"
           },
           "lib/netcoreapp3.0/Microsoft.Web.WebView2.Wpf.dll": {
-            "assemblyVersion": "1.0.1418.22",
-            "fileVersion": "1.0.1418.22"
+            "assemblyVersion": "1.0.1462.37",
+            "fileVersion": "1.0.1462.37"
           }
         },
         "native": {
           "runtimes/win-x64/native/WebView2Loader.dll": {
-            "fileVersion": "1.0.1418.22"
+            "fileVersion": "1.0.1462.37"
           }
         }
       },
@@ -106,12 +106,12 @@
       "path": "communitytoolkit.mvvm/8.0.0",
       "hashPath": "communitytoolkit.mvvm.8.0.0.nupkg.sha512"
     },
-    "Microsoft.Web.WebView2/1.0.1418.22": {
+    "Microsoft.Web.WebView2/1.0.1462.37": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-74/HbvDxO8ebRclPE4r57Vdvs3REMIcn/G9t3PVp2bfFPhzMmzemLzJj5gX5xA3NURhbqIcYYgKK+l0NYFjvMg==",
-      "path": "microsoft.web.webview2/1.0.1418.22",
-      "hashPath": "microsoft.web.webview2.1.0.1418.22.nupkg.sha512"
+      "sha512": "sha512-q1B5OWQBJxX4tTcG1JiwUOOPDAfgDwWx9ckEQoo/o55MwE4zeTuFeFv0ghTFr28hxlBSiMQ/6OzRQswyx2D7WA==",
+      "path": "microsoft.web.webview2/1.0.1462.37",
+      "hashPath": "microsoft.web.webview2.1.0.1462.37.nupkg.sha512"
     },
     "Microsoft.Xaml.Behaviors.Wpf/1.1.39": {
       "type": "package",

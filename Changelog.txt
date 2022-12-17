@@ -212,3 +212,6 @@ PMDG 737 Captain CDU ENET profile
 - fixed USB serial number not saving
 FENIX A320 MCDU ENET profile
 	- fixed crash
+	
+0.0.9.7
+- added autostart for ENET and USB
