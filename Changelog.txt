@@ -215,3 +215,6 @@ FENIX A320 MCDU ENET profile
 	
 0.0.9.7
 - added autostart for ENET and USB
+
+0.0.9.8
+- tweaked ENET API
