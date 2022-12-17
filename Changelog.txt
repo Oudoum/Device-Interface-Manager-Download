@@ -218,3 +218,6 @@ FENIX A320 MCDU ENET profile
 
 0.0.9.8
 - tweaked ENET API
+
+0.0.9.9
+- expanded ENET log
